@@ -1,0 +1,6 @@
+
+Separating code into src, tests, and docs is good practice even for a small
+project because each folder has a clear purpose: src holds the application
+code, tests holds checks that help catch bugs, and docs explains how the
+project works. This organization makes files easier to find, change, and
+maintain as the project grows.
